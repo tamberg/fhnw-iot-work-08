@@ -10,7 +10,7 @@ For slides and example code, see [lesson 8](../../../fhnw-iot/blob/master/08/REA
 * Register a TTN application, and register two devices.
 * Get ABP keys for one device, OTAA keys for another.
 * Set these keys in the LoRaWAN .ino code examples.
-* Make sure to use the right code for your hardware*.</br>
+* Make sure to use the right code for your hardware.</br>
   (The pin mapping varies for ESP8266, nRF52840.)
 
 ### b) TTN integrations, 15'
